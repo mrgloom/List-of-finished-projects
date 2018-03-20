@@ -12,6 +12,7 @@
   + https://github.com/mrgloom/position-and-radius-estimation-example
   + https://github.com/mrgloom/blob-counting-example
   + https://github.com/mrgloom/keras-semantic-segmentation-example
+  + https://github.com/mrgloom/circular-object-detection
 
 - List of solved kaggle competitions:
   + https://github.com/mrgloom/Kaggle-Computer-Vision-Competitions-List
