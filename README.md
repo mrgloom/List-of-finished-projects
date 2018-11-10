@@ -13,6 +13,7 @@
   + https://github.com/mrgloom/blob-counting-example
   + https://github.com/mrgloom/keras-semantic-segmentation-example
   + https://github.com/mrgloom/meter-reading
+  + https://github.com/mrgloom/Video-Stabilization-Example
 
 - List of areas of interest:
   + https://github.com/mrgloom/awesome-semantic-segmentation
