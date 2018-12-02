@@ -1,10 +1,5 @@
 # List-of-Finished-Projects
 
-## List of finished projects and long term projects.
-
-- List of finished projects:
-
-
 - Toy examples(proof of concept):
   + https://github.com/mrgloom/skin-detection-example
   + https://github.com/mrgloom/fully-convolutional-example
@@ -14,6 +9,9 @@
   + https://github.com/mrgloom/keras-semantic-segmentation-example
   + https://github.com/mrgloom/meter-reading
   + https://github.com/mrgloom/Video-Stabilization-Example
+  
+- Utils
+  + https://github.com/mrgloom/parallel-image-resizer 
 
 - List of areas of interest:
   + https://github.com/mrgloom/awesome-semantic-segmentation
